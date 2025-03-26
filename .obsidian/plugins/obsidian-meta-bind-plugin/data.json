@@ -30,6 +30,23 @@
           "command": "periodic-notes:open-daily-note"
         }
       ]
+    },
+    {
+      "label": "Launchpad",
+      "icon": "rocket",
+      "style": "primary",
+      "class": "",
+      "cssStyle": "",
+      "backgroundImage": "",
+      "tooltip": "",
+      "id": "launchpad",
+      "hidden": false,
+      "actions": [
+        {
+          "type": "command",
+          "command": "homepage:open-homepage"
+        }
+      ]
     }
   ],
   "excludedFolders": [
