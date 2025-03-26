@@ -1,0 +1,1 @@
+log:: 📃 [name here]() #reading/article #to_read

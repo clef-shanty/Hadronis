@@ -1,0 +1,1 @@
+log:: <% tp.date.now("YYYY-MM-DD") %> Name #Proampac/attendance/ <— Type

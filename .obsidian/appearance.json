@@ -1,0 +1,9 @@
+{
+  "accentColor": "#73ccf2",
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "dashboard",
+    "dashboard-ReadLineLength",
+    "fonts"
+  ]
+}
