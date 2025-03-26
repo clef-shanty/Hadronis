@@ -5,8 +5,7 @@ banner: "![[aed1.jpg]]"
 banner_x: 0.5
 banner_y: 0
 ---
-
-<div class="title" style="color:white">HOME</div>
+![[aed1.jpg]]
 
 `BUTTON[today]`  `BUTTON[2obf]`
 
