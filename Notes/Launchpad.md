@@ -7,7 +7,7 @@ banner_y: 0
 ---
 ![[aed1.jpg]]
 
-`BUTTON[today]`  `BUTTON[2obf]`
+`BUTTON[today]`  
 
 # Family
 - 🏈 Sunday Game

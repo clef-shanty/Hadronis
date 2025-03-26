@@ -5,6 +5,8 @@
     "dashboard",
     "dashboard-ReadLineLength",
     "fonts",
-    "buttons"
+    "buttons",
+    "meta-bind-button-colors",
+    "snippet"
   ]
 }

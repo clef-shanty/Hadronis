@@ -1,0 +1,5 @@
+.mb-button.my-colored-button > button {
+  background-color: lightblue;
+  color: darkblue;
+  border: 1px solid blue;
+}
