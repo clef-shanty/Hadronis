@@ -8,17 +8,19 @@ tags:
 type: area_note
 Today:
 ---
-[[Home|✱ Home]] | [[ProAmpac MOC| ProAmpac]]
+`BUTTON[launchpad]` | `BUTTON[proampac]`
 
-#### Attendance
 
-#### Notes
+## Attendance
 
-#### Machines
+
+## Notes
+
+## Machines
 
 [[Floor Plan.canvas|Floor Plan]]
 
-#### Counts
+## Counts
 
 
 ### Totals
