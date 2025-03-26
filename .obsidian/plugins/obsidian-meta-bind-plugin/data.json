@@ -13,7 +13,25 @@
   "enableSyntaxHighlighting": true,
   "enableEditorRightClickMenu": true,
   "inputFieldTemplates": [],
-  "buttonTemplates": [],
+  "buttonTemplates": [
+    {
+      "label": "Today",
+      "icon": "calendar",
+      "style": "primary",
+      "class": "today-button",
+      "cssStyle": "today-button",
+      "backgroundImage": "",
+      "tooltip": "",
+      "id": "today",
+      "hidden": false,
+      "actions": [
+        {
+          "type": "command",
+          "command": "periodic-notes:open-daily-note"
+        }
+      ]
+    }
+  ],
   "excludedFolders": [
     "templates"
   ]

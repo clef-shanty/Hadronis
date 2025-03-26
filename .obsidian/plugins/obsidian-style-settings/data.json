@@ -1,5 +1,11 @@
 {
   "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-sapphire",
   "anuppuccin-theme-settings@@ctp-custom-sapphire@@dark": "#91EFF8",
-  "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-simple-rainbow-color-toggle"
+  "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-simple-rainbow-color-toggle",
+  "minimal-style@@h1-color@@dark": "#A9DDB6",
+  "minimal-style@@h2-color@@dark": "#C1FFFC",
+  "minimal-style@@h3-color@@dark": "#F1FA95",
+  "minimal-style@@h4-color@@dark": "#9C93D0",
+  "minimal-style@@h5-color@@dark": "#DAC27E",
+  "minimal-style@@h6-color@@dark": "#EBA4A4"
 }

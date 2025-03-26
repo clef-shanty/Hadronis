@@ -1,0 +1,5 @@
+{
+  "format": "YYYY/MMMM/YYYY-MM-DD",
+  "folder": "Dailies",
+  "template": "Resources/Templates/Cal/Daily Template"
+}
