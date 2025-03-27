@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Launchpad.md",
-                "mode": "preview",
+                "file": "Resources/Templates/Work/Daily Production Template.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Launchpad"
+              "title": "Daily Production Template"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/Launchpad.md",
+            "file": "Resources/Templates/Work/Daily Production Template.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,10 +168,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Notes/ToWatch/Videos to Watch.canvas",
-    "Notes/Launchpad.md",
-    "Resources/Templates/Log/log absence.md",
+    "Work/Proampac MOC.canvas",
     "Resources/Templates/Work/Daily Production Template.md",
+    "Work/Machines",
+    "Work/Walkthroughs",
+    "Work",
+    "Dailies/2025/March/2025-03-27.md",
+    "Notes/Launchpad.md",
+    "Notes/ToWatch/Videos to Watch.canvas",
+    "Resources/Templates/Log/log absence.md",
     "Dailies/2025/March/2025-03-26.md",
     "_Inbox/Test.md",
     "_Inbox/Test2.md",
