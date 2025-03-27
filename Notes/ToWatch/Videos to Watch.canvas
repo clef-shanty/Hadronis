@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"34b8741429e892b4","x":40,"y":-239,"width":640,"height":439,"type":"link","url":"https://youtu.be/HFK3D7zeyTA?si=Exa5qTJO45b1hEcD"},
+		{"id":"2699a2b5d4885e72","x":200,"y":-640,"width":240,"height":60,"color":"4","type":"text","text":"# Videos to Watch"}
+	],
+	"edges":[
+		{"id":"413f059bcc08237b","fromNode":"2699a2b5d4885e72","fromSide":"bottom","toNode":"34b8741429e892b4","toSide":"top"}
+	]
+}
