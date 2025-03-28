@@ -62,6 +62,36 @@
       },
       "openFile": false,
       "openFileInMode": "default"
+    },
+    {
+      "id": "2f70d0f3-5a78-4c39-a92b-59aa628dd2e7",
+      "name": "employee",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Resources/Templates/Work/Employee Template.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Resources/People"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
     }
   ],
   "macros": [],

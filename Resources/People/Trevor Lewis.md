@@ -1,0 +1,24 @@
+Name:: Trevor Lewis
+Phone:: 
+Email:: 
+Department:: Garbax
+Position:: Adjuster
+Machine:: 319,323
+#Employee
+- # Notes
+- # Issues
+- # Discussions
+- # Attendance
+  
+  > ```dataview
+  > TABLE
+  > WITHOUT ID
+  > link(Source, dateformat(date(Source), "yyyy-MM-dd")) as "",
+  > rows.Details as "Details"
+  > FROM !"Templates"
+  > FLATTEN log as Details
+  > WHERE contains(Details, "#Proampac/attendance")
+   AND contains(Details, "Trevor Lewis")
+  > GROUP BY file.name as Source
+  > SORT rows.file.day desc
+  > ```

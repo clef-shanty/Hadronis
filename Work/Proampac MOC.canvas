@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"c7fbc95f6436ca85","type":"text","text":"```dataview\nTable\nWhere file.folder = \"Work/Walkthroughs\"\nSort asc\nLimit 5\n```","x":-280,"y":-488,"width":360,"height":388,"color":"5"}
+		{"id":"c7fbc95f6436ca85","type":"text","text":"```dataview\nTable\nWhere file.folder = \"Work/Walkthroughs\"\nSort asc\nLimit 5\n```","x":-280,"y":-488,"width":360,"height":388,"color":"5"},
+		{"id":"bf04611eefa256ca","type":"text","text":"  ```dataview\nTABLE WITHOUT ID\n  link(file.link, file.name) AS \"File\",\n  split(Details, \"log:: \")[0] AS \"Details\"\nFROM \"Work/Walkthroughs\"\nFLATTEN log AS Details\nWHERE contains(Details, \"#Proampac/attendance\")\n  ```","x":200,"y":-488,"width":880,"height":428,"color":"2"}
 	],
 	"edges":[]
 }
