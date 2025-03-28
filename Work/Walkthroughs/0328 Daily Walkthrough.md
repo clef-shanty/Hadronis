@@ -8,11 +8,12 @@ tags:
 type: area_note
 Today:
 ---
-`BUTTON[launchpad]` | 
+`BUTTON[launchpad]` |  `BUTTON[proampac]`
 
 
 ## Attendance
 
+log:: 2025-03-28 [[Justin Thompson]] #Proampac/attendance/ncns
 
 ## Notes
 

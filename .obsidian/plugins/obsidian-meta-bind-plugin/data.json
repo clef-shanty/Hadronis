@@ -47,6 +47,24 @@
           "command": "homepage:open-homepage"
         }
       ]
+    },
+    {
+      "label": "Proampac",
+      "icon": "globe",
+      "style": "primary",
+      "class": "green-button",
+      "cssStyle": "",
+      "backgroundImage": "",
+      "tooltip": "",
+      "id": "proampac",
+      "hidden": false,
+      "actions": [
+        {
+          "type": "open",
+          "link": "[[Proampac MOC.canvas]]",
+          "newTab": true
+        }
+      ]
     }
   ],
   "excludedFolders": [
