@@ -1,5 +1,34 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "ac2c3379-ca81-42ab-9a2e-c65319b173ff",
+      "name": "walkthrough",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Resources/Templates/Work/Daily Production Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "MMDD Daily Walkthrough"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    }
+  ],
   "macros": [],
   "inputPrompt": "single-line",
   "devMode": false,

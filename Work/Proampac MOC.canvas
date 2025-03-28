@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"c7fbc95f6436ca85","x":-280,"y":-488,"width":360,"height":388,"color":"5","type":"text","text":"```dataview\nTable\nWhere file.folder = \"Work\"\nSort asc\nLimit 5\n```"}
+		{"id":"c7fbc95f6436ca85","type":"text","text":"```dataview\nTable\nWhere file.folder = \"Work/Walkthroughs\"\nSort asc\nLimit 5\n```","x":-280,"y":-488,"width":360,"height":388,"color":"5"}
 	],
 	"edges":[]
 }
