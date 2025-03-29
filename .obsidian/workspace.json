@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dailies/2025/March/2025-03-26.md",
+                "file": "_Inbox/Training Plan to Master Dataview and DataviewJS in.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-26"
-            }
-          },
-          {
-            "id": "9db6bf19373808f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Launchpad.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Launchpad"
+              "title": "Training Plan to Master Dataview and DataviewJS in"
             }
           }
         ]
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dailies/2025/March/2025-03-26.md",
+                "file": "Notes/Launchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-03-26"
+              "title": "Backlinks for Launchpad"
             }
           },
           {
@@ -156,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dailies/2025/March/2025-03-26.md",
+                "file": "Notes/Launchpad.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-03-26"
+              "title": "Outline of Launchpad"
             }
           },
           {
@@ -195,44 +181,48 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f192abe3ac010079",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Notes/Launchpad.md",
+    "_Inbox/Training Plan to Master Dataview and DataviewJS in.md",
     "Dailies/2025/March/2025-03-26.md",
-    "Resources/Navigation Buttons.md",
-    "README.md",
-    "Notes/ToWatch/Note Taking in neovim with markdown and pandoc and bears_ oh my_.md",
-    "Notes/ToWatch/Sparks/Echoes of the Silent War.md",
-    "Notes/ToWatch/ToRead/Improving Callouts with Obsidian Modal - Obsidian Rocks.md",
-    "Notes/ToWatch/ToRead/OBF.md",
-    "Notes/ToWatch/ToRead/Scientists Just Discovered an RNA That Repairs DNA Damage – And It’s a Game-Changer.md",
-    "Notes/ToWatch/ToRead/Articles.md",
-    "Notes/ToWatch/ToWatch/Organize Your Text Based Notes from the Command Line with This Script.md",
-    "Notes/ToWatch/ToWatch/Stablebit Drivepool Overview - Windows Disk Drive Pooling.md",
-    "Notes/ToWatch/ToWatch/Vim notetaking tips.md",
-    "Notes/ToWatch/ToWatch/ColdFusion TV - Are we the loneliest generation.md",
-    "Notes/ToWatch/ToWatch/The Eisenhower Matrix.md",
-    "Notes/ToWatch/ToWatch/How to Create a Search Bar in Excel _Super Quick_.md",
-    "Notes/ToWatch/OBF.md",
-    "Notes/ToWatch/Launchpad.md",
+    "_Inbox/Proampac MOC.md",
+    "Work/Walkthroughs/0328 Daily Walkthrough.md",
+    "Work/Walkthroughs",
+    "Work/Proampac MOC.canvas",
+    "Work",
+    "Resources/People/Zandra English.md",
+    "Resources/People/Zady Caballero.md",
+    "Resources/People/Yohanka Salazar.md",
+    "Resources/People/Yadiel Rodriquez.md",
+    "Resources/People/Wim Hof.md",
+    "Resources/People/Wesley Bryant.md",
+    "Resources/People/Victoria Kirkland.md",
+    "Resources/People/Trevor Lewis.md",
+    "Resources/People/Tina Sanders.md",
+    "Resources/People/Tim Graham.md",
+    "Resources/People/Tim Cook.md",
+    "Resources/People/Terri Diggs.md",
+    "Resources/People/Sundar Pichai.md",
+    "Resources/People/Stevo Nonkovic.md",
+    "Resources/People/Stephanie Triplett.md",
+    "Resources/People/Starvose Edwards.md",
+    "Resources/People/Sam Nelson.md",
+    "Resources/People/Rosa Pedrosa.md",
+    "Resources/People/Rosa Juarez.md",
+    "Resources/People/Rosa Cruz.md",
+    "Resources/People/Ricky Smith.md",
+    "Resources/People",
+    "Resources/Assets/IMG_0534.png",
+    "Resources/Assets/IMG_0485.jpg",
+    "Notes/ToWatch/Videos to Watch.canvas",
     "Notes/ToWatch/Sparks",
     "Notes/ToWatch/ToRead",
     "Notes/ToWatch/ToWatch",
-    "Notes/Sparks/Echoes of the Silent War.md",
-    "Notes/ToRead/Improving Callouts with Obsidian Modal - Obsidian Rocks.md",
-    "Notes/ToRead/OBF.md",
-    "Notes/ToRead/Scientists Just Discovered an RNA That Repairs DNA Damage – And It’s a Game-Changer.md",
-    "Notes/ToRead/Articles.md",
-    "Notes/ToWatch/Organize Your Text Based Notes from the Command Line with This Script.md",
-    "Notes/ToWatch/Stablebit Drivepool Overview - Windows Disk Drive Pooling.md",
-    "Notes/ToWatch/Vim notetaking tips.md",
     "Notes/Sparks",
     "Notes/ToRead",
     "Notes/ToWatch",
     "Notes/Videos",
-    "Notes",
-    "untitled folder",
-    "Resources/Templates/Work",
     "Resources/Assets/images_voltaxMediaLibrary_mmsport_385_01jnjb5tp8b6p8mhagmd.jpg",
     "Resources/Assets/images_voltaxMediaLibrary_mmsport_385_01jnjb5tp8b6p8mhagmd 1.jpg",
     "Resources/Assets/aed1.jpg",
@@ -240,7 +230,6 @@
     "Resources/assets/images_voltaxMediaLibrary_mmsport_385_01jnjb5tp8b6p8mhagmd 1.jpg",
     "Resources/assets/aed1.jpg",
     "Resources/Images/images_voltaxMediaLibrary_mmsport_385_01jnjb5tp8b6p8mhagmd.jpg",
-    "Resources/Images/images_voltaxMediaLibrary_mmsport_385_01jnjb5tp8b6p8mhagmd 1.jpg",
-    "Resources/Images/aed1.jpg"
+    "Resources/Images/images_voltaxMediaLibrary_mmsport_385_01jnjb5tp8b6p8mhagmd 1.jpg"
   ]
 }

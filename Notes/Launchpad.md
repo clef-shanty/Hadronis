@@ -17,7 +17,7 @@ banner_y: 0
 - 👨‍👩‍👦 Objectives
 	- [[Family Recipes]]
 	- [[Family Calendar]]
-	- [[Education Plan]]
+	- [Financial Transactions](https://1drv.ms/x/s!Aj0L6Z7V6r2akMkWk4Gxpun0wC5y2w?e=mRxSzT)
 	- [[Yearly Budget]]
 - 🌅 Exotic Vacations 
 	- [[Peru]]
@@ -40,16 +40,19 @@ banner_y: 0
 	- [[Spanish - Entry Level]]
 
 # Work
-- 💼 Projects
+## 💼 Projects
 	- [[Cloud backup]]
 	- [[Firewall upgrades]]
 	- [[IT Cybersecurity training]]
-- 💰 Budget review
-	- [[Q1 2022]]
-	- [[Q2 2022]]
-	- [[Q3 2022]]
-	- [[Q4 2022]]
-- 👥 Personnel Review
+## 🏗️ Proampac Docs
+
+```dataview
+		Table WITHOUT ID file.link as "Walkthrough Notes"
+		from "Work/Walkthroughs"
+		sort file.ctime desc
+		limit 5
+```
+## 👥 Personnel
 	- [[Sally Smith]]
 	- [[Bill Hansen]]
 	- [[Brad Jefferson]]
