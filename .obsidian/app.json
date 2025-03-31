@@ -2,7 +2,7 @@
   "defaultViewMode": "preview",
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "_Inbox",
+  "newFileFolderPath": "00 NoteLab",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "Resources/Assets"
+  "attachmentFolderPath": "06 ToolKit/Assets"
 }

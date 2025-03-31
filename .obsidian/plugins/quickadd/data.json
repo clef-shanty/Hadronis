@@ -5,14 +5,16 @@
       "name": "walkthrough",
       "type": "Template",
       "command": true,
-      "templatePath": "Resources/Templates/Work/Daily Production Template.md",
+      "templatePath": "06 Toolkit/Templates/Work/Daily Production Template",
       "fileNameFormat": {
         "enabled": true,
         "format": "MMDD Daily Walkthrough"
       },
       "folder": {
         "enabled": true,
-        "folders": [],
+        "folders": [
+          "04 Vault/Work/Walkthroughs"
+        ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false
@@ -68,7 +70,7 @@
       "name": "employee",
       "type": "Template",
       "command": true,
-      "templatePath": "Resources/Templates/Work/Employee Template.md",
+      "templatePath": "06 Toolkit/Templates/Work/Employee Template.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
@@ -76,7 +78,8 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "Resources/People"
+          "",
+          "06 Toolkit/People"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,

@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"bf04611eefa256ca","type":"text","text":"  ```dataview\nTABLE WITHOUT ID\n  link(file.link, file.name) AS \"File\",\n  split(Details, \"log:: \")[0] AS \"Details\"\nFROM \"04 Vault/Work/Walkthroughs\"\nFLATTEN log AS Details\nWHERE contains(Details, \"#Proampac/attendance\") and contains(file.cday, date(today))\n  ```","x":200,"y":-488,"width":880,"height":428,"color":"2"},
+		{"id":"c7fbc95f6436ca85","type":"text","text":"```dataview\nTable\nFrom \"04 Vault/Work/Walkthroughs\"\nSort asc\nLimit 5\n```","x":-320,"y":-468,"width":360,"height":388,"color":"5"}
+	],
+	"edges":[]
+}

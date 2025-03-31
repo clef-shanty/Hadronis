@@ -4,10 +4,12 @@ cssclasses:
 banner: "![[aed1.jpg]]"
 banner_x: 0.5
 banner_y: 0
+tags:
+  - home
 ---
 ![[aed1.jpg]]
 
-`BUTTON[today]`  
+`BUTTON[today]` | `BUTTON[proampac]`
 
 # Family
 - 🏈 Sunday Game

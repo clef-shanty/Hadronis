@@ -2,24 +2,12 @@
 
 ---
 
-```meta-bind-button
-label: Launcher
-icon: rocket
-style: default
-class: ""
-cssStyle: ""
-backgroundImage: ""
-tooltip: ""
-id: launcher
-hidden: false
-actions:
-  - type: command
-    command: homepage:open-homepage
-
-```
+`BUTTON[launchpad]` | `BUTTON[proampac]`
 
 >[!Today's Links]
-> -
+ -
+
+---
 
 >[!Files Created Today]
 >```dataview

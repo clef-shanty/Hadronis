@@ -5,7 +5,7 @@ tags:
   - dpn
 Today:
 ---
-Subject: [[ProAmpac MOC | ProAmpac]]
+Subject: [[Proampac MOC| ProAmpac]]
 
 #### Attendance
 
