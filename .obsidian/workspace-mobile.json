@@ -13,26 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Vault/Work/Walkthroughs/0331 Daily Walkthrough.md",
+                "file": "05 Journal/Dailies/2025/March/2025-03-31.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0331 Daily Walkthrough"
+              "title": "2025-03-31"
             }
           },
           {
-            "id": "7d96832564bc96f9",
+            "id": "1ec777e07087f4f8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "04 Vault/Work/Proampac MOC.canvas",
+                "viewState": {
+                  "x": 501.774878132769,
+                  "y": -223.76431245990153,
+                  "zoom": -1.9837653715603365
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Proampac MOC"
+            }
+          },
+          {
+            "id": "33ec9fabf3e526c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Launchpad.md",
+                "file": "05 Journal/Dailies/2025/March/2025-03-31.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "+ Launchpad"
+              "title": "2025-03-31"
             }
           }
         ],
@@ -181,16 +198,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7d96832564bc96f9",
+  "active": "1ec777e07087f4f8",
   "lastOpenFiles": [
-    "04 Vault/Work/Walkthroughs/0331 Daily Walkthrough.md",
     "05 Journal/Dailies/2025/March/2025-03-31.md",
     "+ Launchpad.md",
     "04 Vault/Work/Proampac MOC.canvas",
+    "04 Vault/Work/Walkthroughs/0330 Daily Walkthrough.md",
+    "04 Vault/Work/Walkthroughs/0331 Daily Walkthrough.md",
     "06 Toolkit/Templates/Cal/Daily Template.md",
     "05 Journal/Dailies/2025/March/2025-03-30.md",
     "04 Vault/Work/Walkthroughs/0328 Daily Walkthrough.md",
-    "04 Vault/Work/Walkthroughs/0330 Daily Walkthrough.md",
     "04 Vault/Untagged Files.md",
     "05 Journal/Dailies",
     "03 Spaces",

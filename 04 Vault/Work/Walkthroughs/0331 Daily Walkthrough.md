@@ -14,9 +14,9 @@ Today:
 ## Attendance
 
 log:: 2025-03-31 [[James Perkins]] #Proampac/attendance/callout
-log:: 2025-03-31 [[Aaron Hayes]] #Proampac/attendance/unpaid 
-log:: 2025-03-31 [[Mayelin Caro]] #Proampac/attendance/vacation 
-log:: 2025-03-31 [[Yoandra Aragon]] #Proampac/attendance/unpaid 
+log:: 2025-03-31 [[Aaron Hayes]] #Proampac/attendance/vacation 
+log:: 2025-03-31 [[Mayelin Caro]] #Proampac/attendance/unpaid 
+log:: 2025-03-31 [[Yoandra Aragon]] #Proampac/attendance/vacation 
 ## Notes
 
 ## Machines
