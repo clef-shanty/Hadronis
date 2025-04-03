@@ -20,8 +20,26 @@
               "icon": "lucide-file",
               "title": "+ Launchpad"
             }
+          },
+          {
+            "id": "6883ab748bafa6f3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "04 Vault/Work/Proampac MOC.canvas",
+                "viewState": {
+                  "x": 581.5771292154077,
+                  "y": -384.8552879287182,
+                  "zoom": -1.6452252313487619
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Proampac MOC"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,10 +184,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "6883ab748bafa6f3",
   "lastOpenFiles": [
-    "04 Vault/Work/Proampac MOC.canvas",
     "+ Launchpad.md",
+    "04 Vault/Work/Proampac MOC.canvas",
     "05 Journal/Dailies/2025/March/2025-03-31.md",
     "04 Vault/Work/Walkthroughs/0330 Daily Walkthrough.md",
     "04 Vault/Work/Walkthroughs/0331 Daily Walkthrough.md",
