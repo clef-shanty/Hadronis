@@ -6,7 +6,7 @@ tags:
   - dpn
   - area/proampac
 type: area_note
-Today:
+Today: false
 ---
 `BUTTON[launchpad]` | `BUTTON[proampac]`
 
