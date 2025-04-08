@@ -13,32 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Journal/Dailies/2025/April/2025-04-04.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-04-04"
-            }
-          },
-          {
-            "id": "680dd3f4e0cdce8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Vault/Work/Walkthroughs/MMDD Daily Walkthrough.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MMDD Daily Walkthrough"
-                "file": "+ Launchpad.md",
+                "file": "05 Journal/Dailies/2025/April/2025-04-07.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "+ Launchpad"
+              "title": "2025-04-07"
             }
           }
         ]
@@ -47,11 +27,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c3798a37a57d6790",
+    "id": "41a7fc4c62c89b4e",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "2b4fcade0f17dd40",
+        "id": "314853089bc76fba",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -64,12 +44,12 @@
         }
       },
       {
-        "id": "b9c8e22a67e152c8",
+        "id": "dcff88857e162de6",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#Proampac/attendance/vacation",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -81,7 +61,7 @@
         }
       },
       {
-        "id": "2fb877e704b24201",
+        "id": "620e3994864054a2",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -96,7 +76,7 @@
         }
       },
       {
-        "id": "657c70f73ba31811",
+        "id": "3e9cd8debf513409",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -109,16 +89,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "33f837945bab865b",
+    "id": "9a8c47229db897bb",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "b610cc01cdbc7816",
+        "id": "31ec56afd94a2a12",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Resources/Templates/Work/Daily Production Template.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -132,12 +111,11 @@
         }
       },
       {
-        "id": "89cd664bfeae8da2",
+        "id": "40b697ec7ac6c0da",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_Inbox/Test.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -146,12 +124,11 @@
         }
       },
       {
-        "id": "07a49ce5efb7df89",
+        "id": "a6d272d880bd1cd4",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "_Inbox/Test.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -161,17 +138,17 @@
         }
       },
       {
-        "id": "3cd5c93342334850",
+        "id": "2dcfb3564a7e4d99",
         "type": "leaf",
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "lucide-file",
-          "title": "Plugin no longer active"
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,46 +163,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "680dd3f4e0cdce8f",
-  "lastOpenFiles": [
-    "05 Journal/Dailies/2025/April/2025-04-04.md",
-    "04 Vault/Work/Walkthroughs/MMDD Daily Walkthrough.md",
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "05 Journal/Dailies/2025/April/2025-04-06.md",
     "+ Launchpad.md",
-    "04 Vault/Work/Proampac MOC.canvas",
-    "05 Journal/Dailies/2025/April/2025-04-03.md",
-    "05 Journal/Dailies/2025/April",
-    "05 Journal/Dailies/2025/March/2025-03-31.md",
-    "04 Vault/Work/Walkthroughs/0330 Daily Walkthrough.md",
-    "04 Vault/Work/Walkthroughs/0331 Daily Walkthrough.md",
-    "06 Toolkit/Templates/Cal/Daily Template.md",
-    "05 Journal/Dailies/2025/March/2025-03-30.md",
-    "04 Vault/Work/Walkthroughs/0328 Daily Walkthrough.md",
-    "04 Vault/Untagged Files.md",
-    "05 Journal/Dailies",
-    "03 Spaces",
-    "02 Cards",
-    "01 MOCs",
-    "00 NoteLab/Test.md",
-    "00 NoteLab/Training Plan to Master Dataview and DataviewJS in.md",
-    "06 Toolkit/People/Justin Thompson.md",
-    "06 Toolkit/People/Carlos Torres.md",
-    "05 Journal/Dailies/2025/March/2025-03-28.md",
-    "06 Toolkit/Assets/IMG_0534.png",
-    "06 Toolkit/Assets/IMG_0485.jpg",
-    "06 Toolkit/Templates/Log/log absence.md",
-    "00 NoteLab/Proampac MOC.md",
-    "06 Toolkit/Templates/Work/Daily Production Template.md",
-    "Work/Machines",
-    "04 Vault/Work/Walkthroughs",
-    "04 Vault/Work",
-    "05 Journal/Dailies/2025/March/2025-03-27.md",
-    "04 Vault/ToWatch/Videos to Watch.canvas",
-    "05 Journal/Dailies/2025/March/2025-03-26.md",
-    "00 NoteLab/Test2.md",
-    "06 Toolkit/Navigation Buttons.md",
-    "_Inbox/Navigation Buttons.md"
+    "05 Journal/Dailies/2025/April/2025-04-07.md"
   ]
 }
