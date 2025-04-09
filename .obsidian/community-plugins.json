@@ -11,5 +11,7 @@
   "dbfolder",
   "obsidian-meta-bind-plugin",
   "obsidian-minimal-settings",
-  "periodic-notes"
+  "periodic-notes",
+  "cmdr",
+  "vconsole"
 ]

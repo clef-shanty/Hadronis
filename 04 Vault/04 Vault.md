@@ -1,5 +1,5 @@
 ---
-Date-Created: <% tp.date.now() %>
+Date-Created: 2025-04-09
 tags:
   - moc
 Category: Map
@@ -10,7 +10,7 @@ Category: Map
 
 ```dataview
 List
-From "<% tp.file.folder() %>"
+From "04 Vault"
 WHERE file.name != this.file.name 
 Sort file.cday DESC
 ```

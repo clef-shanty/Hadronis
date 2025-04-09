@@ -5,7 +5,37 @@ modified: 2025-03-14T19:41:26-05:00
 
 ---
 
-`BUTTON[obf]`  `BUTTON[launcher]`
+`BUTTON[obf]`  `BUTTON[launchpad]`
+
+# OBF
+
+**<span style="background-color:#D2FD7E;"><span style='color: #7EABFD'>2025-04-09</span></span>**
+
+![](https://i.ytimg.com/vi/ZVMfYsipMHY/hqdefault.jpg)
+
+Has Excel come to Obsidian?
+
+From: Antone Heyward
+
+https://youtube.com/watch?v=ZVMfYsipMHY&si=m2PhFVCS5tV2PBN5
+
+---
+
+![](https://i.ytimg.com/vi/35OrxRVaSSM/hqdefault.jpg)
+
+The Key to Creating a Short Story with AI
+
+From: The Nerdy Novelist
+
+https://youtube.com/watch?v=35OrxRVaSSM&si=QRYgH2T8oXxwKvl1
+
+---
+
+
+
+
+
+
 
 **<span style="background-color:#D2FD7E;"><span style='color: #7EABFD'>2025-03-20</span></span>**
 

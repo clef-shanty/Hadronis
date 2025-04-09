@@ -65,6 +65,41 @@
           "newTab": true
         }
       ]
+    },
+    {
+      "label": "OBF",
+      "icon": "calendar",
+      "style": "primary",
+      "class": "",
+      "cssStyle": "",
+      "backgroundImage": "",
+      "tooltip": "",
+      "id": "obf",
+      "hidden": false,
+      "actions": [
+        {
+          "type": "input",
+          "str": "**<span style=\"background-color:#D2FD7E;\"><span style='color: #7EABFD'>{{date}}</span></span>**"
+        }
+      ]
+    },
+    {
+      "label": "OBF",
+      "icon": "pencil",
+      "style": "default",
+      "class": "green-button",
+      "cssStyle": "",
+      "backgroundImage": "",
+      "tooltip": "",
+      "id": "openObf",
+      "hidden": false,
+      "actions": [
+        {
+          "type": "open",
+          "link": "[[OBF]]",
+          "newTab": true
+        }
+      ]
     }
   ],
   "excludedFolders": [

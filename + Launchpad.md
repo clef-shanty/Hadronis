@@ -9,7 +9,7 @@ tags:
 ---
 ![[aed1.jpg]]
 
-`BUTTON[today]` | `BUTTON[proampac]`
+`BUTTON[today]` | `BUTTON[proampac]` | `BUTTON[openObf]`
 
 # Family
 - 🏈 Sunday Game

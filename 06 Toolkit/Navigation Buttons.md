@@ -4,7 +4,7 @@ icon: calendar
 hidden: false
 class: “”
 tooltip: “”
-id: today
+id: cal
 style: primary
 actions:
   - type: command

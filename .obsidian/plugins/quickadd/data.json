@@ -13,7 +13,7 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "04 Vault/Work/Walkthroughs"
+          "03 Spaces/Work/Walkthroughs"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
@@ -95,6 +95,41 @@
       "openFileInMode": "default",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
+    },
+    {
+      "id": "d70e2e4b-02ca-4ccd-92a3-78ef348a5469",
+      "name": "obf",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": true,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "**<span style=\"background-color:#D2FD7E;\"><span style='color: #7EABFD'>{{date}}</span></span>**\n"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "# OBF",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
     }
   ],
   "macros": [],
