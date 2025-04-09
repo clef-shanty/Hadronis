@@ -49,6 +49,16 @@ https://youtube.com/watch?v=3yel0c9yF-c&si=m7QMR8pA1HXtebvC
 
 ---
 
+![](https://i.ytimg.com/vi/xxSLNxPK4ew/hqdefault.jpg)
+
+Vim Fuzzy Finding and file navigation without any plugins
+
+From: NandZero
+
+https://youtube.com/watch?v=xxSLNxPK4ew&si=M-s6Es6a_hx9iqem
+
+---
+
 
 
 
