@@ -30,6 +30,26 @@ From: The Nerdy Novelist
 https://youtube.com/watch?v=35OrxRVaSSM&si=QRYgH2T8oXxwKvl1
 
 ---
+![](%http_data.thumbnail_url)
+
+EXCEL shipment Tracker
+
+From: @Excel Dictionary
+
+https://youtube.com/shorts/9VFcuV9VCOs?si=4srVdvDZJS0qm6oL
+
+---
+![](https://i.ytimg.com/vi/3yel0c9yF-c/hqdefault.jpg)
+
+AI Automation Saved My Obsidian Vault
+
+From: I versus AI
+
+https://youtube.com/watch?v=3yel0c9yF-c&si=m7QMR8pA1HXtebvC
+
+---
+
+
 
 
 
