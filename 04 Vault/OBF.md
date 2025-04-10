@@ -54,6 +54,15 @@ log:: :LiNewspaper: [5 ways to keep your body mobile as you age | CNN](%cl_text)
 ---
 log:: :LiNewspaper: [Brains Rewire Themselves to Survive Deadly Infection - Neuroscience News](%cl_text) #reading/article #to_read
 
+> [!Summary]
+> ### Brain Rewiring in Response to Infection
+> 
+> - **Key Findings**: The nervous system of *C. elegans* worms can adapt to survive infection by reconfiguring itself.
+> - **Adaptation Mechanism**: When exposed to harmful bacteria, the worms rewired the roles of neurons and neuromodulators.
+> - **Behavioral Changes**: This rewiring led to reduced feeding and resistance to lethargy.
+> - **Neuropeptide Role**: A neuropeptide, FLP-13, flipped its usual function depending on whether worms faced stress or infection.
+> - **Implications**: The findings show that animals can reuse the same neural components in different combinations to cope with diverse environmental challenges.
+
 ---
 
 
