@@ -78,8 +78,8 @@
       "hidden": false,
       "actions": [
         {
-          "type": "input",
-          "str": "**<span style=\"background-color:#D2FD7E;\"><span style='color: #7EABFD'>{{date}}</span></span>**"
+          "type": "command",
+          "command": "quickadd:choice:d70e2e4b-02ca-4ccd-92a3-78ef348a5469"
         }
       ]
     },

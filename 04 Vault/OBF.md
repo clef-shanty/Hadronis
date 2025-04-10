@@ -9,6 +9,11 @@ modified: 2025-03-14T19:41:26-05:00
 
 # OBF
 
+**<span style="background-color:#D2FD7E;"><span style='color: #7EABFD'>2025-04-10</span></span>**
+
+
+
+
 **<span style="background-color:#D2FD7E;"><span style='color: #7EABFD'>2025-04-09</span></span>**
 
 ![](https://i.ytimg.com/vi/ZVMfYsipMHY/hqdefault.jpg)
@@ -81,6 +86,16 @@ https://youtube.com/watch?v=fF2sBuJBsWY&si=8KbrFfEZV1mlF_9d
 log:: :LiNewspaper: [How I automate basic tasks on Linux with bash scripts - and why you should try it | ZDNET](%cl_text) #reading/article #to_read
 
 ---
+![](https://i.ytimg.com/vi/I3P0EyjZgAc/hqdefault.jpg)
+
+Tannhäuser Gate | 1 Hour Dimensional Sci-Fi Ambient Music
+
+From: COLDFIRE - Ambient SciFi
+
+https://youtube.com/watch?v=I3P0EyjZgAc&si=DPF1CYElltiSy513
+
+---
+
 
 
 
