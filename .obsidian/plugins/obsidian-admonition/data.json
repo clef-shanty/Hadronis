@@ -1,5 +1,19 @@
 {
-  "userAdmonitions": {},
+  "userAdmonitions": {
+    "Employees": {
+      "type": "Employees",
+      "color": "0, 209, 237",
+      "icon": {
+        "name": "hard-hat",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Employees",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    }
+  },
   "syntaxHighlight": false,
   "copyButton": false,
   "version": "10.3.2",
