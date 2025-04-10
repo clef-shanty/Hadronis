@@ -68,6 +68,16 @@ From: Vinyl Vistas
 https://youtube.com/watch?v=kOSNc5GSkjU&si=IJh4QrSX_n6qgiVC
 
 ---
+![](https://i.ytimg.com/vi/fF2sBuJBsWY/hqdefault.jpg)
+
+The Dusters | Sci-fi Short Audiobook
+
+From: P.E. Rowe
+
+https://youtube.com/watch?v=fF2sBuJBsWY&si=8KbrFfEZV1mlF_9d
+
+---
+
 
 
 
