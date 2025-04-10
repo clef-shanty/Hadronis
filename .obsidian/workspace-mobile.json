@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Spaces/Work/Departments/Sacks.md",
+                "file": "06 Toolkit/People/Eric Williams.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Sacks"
+              "title": "Eric Williams"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "03 Spaces/Work/Departments/Sacks.md",
+            "file": "06 Toolkit/People/Eric Williams.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -165,9 +165,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03 Spaces/Work/Departments/Sacks.md",
     "+ Launchpad.md",
     "05 Journal/Dailies/2025/April/2025-04-10.md",
-    "03 Spaces/Work/Departments/Sacks.md",
     "06 Toolkit/People/Eric Williams.md",
     "04 Vault/04 Vault.md",
     "03 Spaces/Work/Departments",
