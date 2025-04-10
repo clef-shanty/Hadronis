@@ -14,6 +14,12 @@
       "icon": "calendar-day",
       "name": "Periodic Notes: Open daily note",
       "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:ac2c3379-ca81-42ab-9a2e-c65319b173ff",
+      "icon": "lucide-hard-hat",
+      "name": "QuickAdd: walkthrough",
+      "mode": "any"
     }
   ],
   "macros": [],
