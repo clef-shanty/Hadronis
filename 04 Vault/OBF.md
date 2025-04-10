@@ -20,6 +20,10 @@ From: SleepWise
 https://youtube.com/watch?v=ZffEvgEE-hc&si=fQEJlWGbgoyXZMqO
 
 ---
+log:: :FasNewspaper: [This no-plank, three-move bodyweight workout builds serious core strength and stability](%cl_text) #reading/article #to_read
+
+---
+
 
 
 
