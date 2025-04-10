@@ -2,7 +2,9 @@
 Class: Employee
 Phone: 
 Email: 
-Department: Sacks, SOS
+Department:
+  - "[[Sacks]]"
+  - "[[SOS]]"
 Position: Operator
 Machine: 318, 316, 314
 ---
