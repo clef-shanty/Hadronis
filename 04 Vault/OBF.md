@@ -64,6 +64,16 @@ log:: :LiNewspaper: [Brains Rewire Themselves to Survive Deadly Infection - Neur
 > - **Implications**: The findings show that animals can reuse the same neural components in different combinations to cope with diverse environmental challenges.
 
 ---
+![](https://i.ytimg.com/vi/nLuoOhXuCvA/hqdefault.jpg)
+
+Tasker tutorial: Get data from any website using split variables...
+
+From: Ryoen Deprouw (Broesie)
+
+https://youtube.com/watch?v=nLuoOhXuCvA&si=geFcO603ZY29MHFC
+
+---
+
 
 
 
