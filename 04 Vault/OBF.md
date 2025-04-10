@@ -20,13 +20,14 @@ From: SleepWise
 https://youtube.com/watch?v=ZffEvgEE-hc&si=fQEJlWGbgoyXZMqO
 
 ---
-log:: :FasNewspaper: [This no-plank, three-move bodyweight workout builds serious core strength and stability](%cl_text) #reading/article #to_read
+log:: :LiNewspaper: [This no-plank, three-move bodyweight workout builds serious core strength and stability](%cl_text) #reading/article #to_read
 
 ---
-log:: :FasNewspaper: [5 ways to keep your body mobile as you age | CNN](%cl_text) #reading/article #to_read
+log:: :LiNewspaper: [5 ways to keep your body mobile as you age | CNN](%cl_text) #reading/article #to_read
 
 
->[Note]Mobility Maintenance and Aging
+>[!Summary]
+>### Mobility Maintenance and Aging
 > Key Points from CNN Article
 > Daily Movement Practices:
 > 
