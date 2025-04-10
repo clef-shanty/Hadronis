@@ -113,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "+ Launchpad.md",
+            "file": "04 Vault/OBF.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -180,6 +180,7 @@
   },
   "active": "e5f0efec33633742",
   "lastOpenFiles": [
+    "00 NoteLab/Videos/Stop Wasting Practice Time- My 3 Core Guitar Drills.md",
     "+ Launchpad.md",
     "00 NoteLab/Test5.md",
     "00 NoteLab/test4.md",
@@ -214,7 +215,6 @@
     "03 Spaces/Work/Walkthroughs/0404 Daily Walkthrough.md",
     "03 Spaces/Work/Walkthroughs/0407 Daily Walkthrough.md",
     "03 Spaces/Work/Proampac MOC.canvas",
-    "Floor Plan.canvas",
-    "05 Journal/Dailies/2025/April/2025-04-07.md"
+    "Floor Plan.canvas"
   ]
 }

@@ -59,6 +59,16 @@ https://youtube.com/watch?v=xxSLNxPK4ew&si=M-s6Es6a_hx9iqem
 
 ---
 
+![](https://i.ytimg.com/vi/kOSNc5GSkjU/hqdefault.jpg)
+
+70s Rock Bands That Mysteriously Disappeared Overnight
+
+From: Vinyl Vistas
+
+https://youtube.com/watch?v=kOSNc5GSkjU&si=IJh4QrSX_n6qgiVC
+
+---
+
 
 
 
