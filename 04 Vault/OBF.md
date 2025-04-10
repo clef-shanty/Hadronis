@@ -78,6 +78,9 @@ https://youtube.com/watch?v=fF2sBuJBsWY&si=8KbrFfEZV1mlF_9d
 
 ---
 
+log:: :LiNewspaper: [How I automate basic tasks on Linux with bash scripts - and why you should try it | ZDNET](%cl_text) #reading/article #to_read
+
+---
 
 
 
