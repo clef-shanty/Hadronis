@@ -3,6 +3,7 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "Today": "checkbox"
+    "Today": "checkbox",
+    "Department": "multitext"
   }
 }

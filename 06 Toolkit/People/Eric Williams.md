@@ -4,7 +4,9 @@ first-name: Eric
 last-name: Williams
 Phone: 
 Email: 
-Department: Sacks, SOS
+Department:
+  - "[[Sacks]]"
+  - "[[SOS]]"
 Position: Adjuster
 Machine: All
 ---
