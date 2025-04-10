@@ -52,6 +52,10 @@ log:: :LiNewspaper: [5 ways to keep your body mobile as you age | CNN](%cl_text)
 
 
 ---
+log:: :LiNewspaper: [Brains Rewire Themselves to Survive Deadly Infection - Neuroscience News](%cl_text) #reading/article #to_read
+
+---
+
 
 
 
