@@ -13,9 +13,9 @@ modified: 2025-03-14T19:41:26-05:00
 
 ![](%http_data.thumbnail_url)
 
-%http_data.title
+How to Build a deadline tracker in Excel
 
-From: %http_data.author_name
+From: @ExcelPanda
 
 https://youtube.com/shorts/rU8DaMDpty4?si=0xl8hLwgdYnslrVR
 
