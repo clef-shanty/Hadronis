@@ -11,6 +11,16 @@ modified: 2025-03-14T19:41:26-05:00
 
 **<span style="background-color:#D2FD7E;"><span style='color: #7EABFD'>2025-04-10</span></span>**
 
+![](https://i.ytimg.com/vi/rAkerV8rlow/hqdefault.jpg)
+
+Form, Function, & Fun! - My Obsidian Vault Tour [2024]
+
+From: CyanVoxel
+
+https://youtube.com/watch?v=rAkerV8rlow&si=EYzVxUhZifQ3r_2g
+
+---
+
 ![](https://i.ytimg.com/vi/f3mpl9Ka0v8/hqdefault.jpg)
 
 Customize Obsidian Appearance
