@@ -10,6 +10,17 @@ modified: 2025-03-14T19:41:26-05:00
 # OBF
 
 
+![](https://i.ytimg.com/vi/_GkDfOnqNcc/hqdefault.jpg)
+
+Master Capture & Retrieval in Obsidian – Notes, Logs & Metadata Explained
+
+From: Construct By Dee
+
+https://youtube.com/watch?v=_GkDfOnqNcc&si=erbtMBa8mHTQ7NVb
+
+---
+
+
 ![](https://i.ytimg.com/vi/A3y25LB2450/hqdefault.jpg)
 
 Automate Note Naming with Metadata in Obsidian
