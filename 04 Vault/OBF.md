@@ -10,6 +10,17 @@ modified: 2025-03-14T19:41:26-05:00
 # OBF
 
 
+![](https://i.ytimg.com/vi/A3y25LB2450/hqdefault.jpg)
+
+Automate Note Naming with Metadata in Obsidian
+
+From: Construct By Dee
+
+https://youtube.com/watch?v=A3y25LB2450&si=McfwR3LkJQZ4Dizy
+
+---
+
+
 ![](https://i.ytimg.com/vi/EICE2purbyA/hqdefault.jpg)
 
 20 Family Favourite Recipes By Jamie Oliver
