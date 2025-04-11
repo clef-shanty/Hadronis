@@ -1,32 +1,29 @@
 ---
-Class: Employee
 Name: Wesley Bryant
-Department: Garbax
+Phone: 
+Email: 
+Department:
+  - "[[Sacks]]"
 Machine:
-  - 319
-Position: Operator
+  - "[[318]]"
+Position: "[[Operator]]"
+tags:
+  - Employee
 ---
-Name:: Wesley Bryant
-Phone:: 
-Email:: 
-Department:: 
-Position:: 
-Machine:: 
-#Employee
-- # Notes
-- # Issues
-- # Discussions
-- # Attendance
+# Notes
+# Issues
+# Discussions
+# Attendance
   
   ```dataview
   TABLE
   WITHOUT ID
   link(Source, dateformat(date(Source), "yyyy-MM-dd")) as "",
   rows.Details as "Details"
-  FROM !"Templates"
+  FROM !"x-raw/templates"
   FLATTEN log as Details
   WHERE contains(Details, "#Proampac/attendance")
-   AND contains(Details, "Wesley Bryant")
+   AND contains(Details, this.file.name)
   GROUP BY file.name as Source
   SORT rows.file.day desc
   ```

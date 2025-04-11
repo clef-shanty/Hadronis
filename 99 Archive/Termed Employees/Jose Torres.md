@@ -1,9 +1,10 @@
 name:: [[Jose Torres]]
-group:: HandleBags
-position:: Operator
-machine:: [[403]], [[402]] 
+group:: 
+position:: 
+machine:: 
 phone::
 email::
+#Termed 
 
 - ## Attendance
 	- {{query (and (property :tags "#attendance") [[Jose Torres]])}}

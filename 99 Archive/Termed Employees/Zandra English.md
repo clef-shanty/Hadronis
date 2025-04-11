@@ -1,12 +1,12 @@
 ---
-Class: Employee
 Phone: 
 Email: 
-Department: HandleBags
-Position: Packaging Inspector
-Machine: "408"
-Name: Lizeth Caiceido
+Department: 
+Position: 
+Machine: 
+Name: Zandra English
 ---
+#Termed 
 - # Notes
 - # Issues
 - # Discussions
@@ -20,7 +20,7 @@ Name: Lizeth Caiceido
   FROM !"Templates"
   FLATTEN log as Details
   WHERE contains(Details, "#Proampac/attendance")
-   AND contains(Details, "Lizeth Caiceido")
+   AND contains(Details, "Zandra English")
   GROUP BY file.name as Source
   SORT rows.file.day desc
   ```

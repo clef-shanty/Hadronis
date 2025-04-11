@@ -2,12 +2,16 @@
 Class: Employee
 Phone: 
 Email: 
-Department: QC
-Position: Baler
+Department:
+  - HandleBags
+Position: Packaging Inspector
 Machine:
+  - "408"
+Name: Lizeth Caiceido
+tags:
+  - Termed
 ---
 - # Notes
-	- Employee put his two weeks notice in on 11/5/24. 
 - # Issues
 - # Discussions
 - # Attendance
@@ -20,7 +24,7 @@ Machine:
   FROM !"Templates"
   FLATTEN log as Details
   WHERE contains(Details, "#Proampac/attendance")
-   AND contains(Details, "Calvin Chapple")
+   AND contains(Details, "Lizeth Caiceido")
   GROUP BY file.name as Source
   SORT rows.file.day desc
   ```

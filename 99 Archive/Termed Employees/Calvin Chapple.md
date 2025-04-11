@@ -2,12 +2,14 @@
 Class: Employee
 Phone: 
 Email: 
-Department: Warehouse
-Position: Forklift Driver
-Machine: NA
-Name: Justin Osborne
+Department: 
+Position: Baler
+Machine: 
+tags:
+  - Termed
 ---
 - # Notes
+	- Employee put his two weeks notice in on 11/5/24. 
 - # Issues
 - # Discussions
 - # Attendance
@@ -20,7 +22,7 @@ Name: Justin Osborne
   FROM !"Templates"
   FLATTEN log as Details
   WHERE contains(Details, "#Proampac/attendance")
-   AND contains(Details, "Justin Osborne")
+   AND contains(Details, "Calvin Chapple")
   GROUP BY file.name as Source
   SORT rows.file.day desc
   ```

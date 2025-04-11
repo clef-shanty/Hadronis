@@ -1,10 +1,10 @@
-Name:: Ashley Smith
+Name:: David Campbell
 Phone:: 
 Email:: 
 Department:: 
 Position:: 
 Machine:: 
-#Employee
+#Termed 
 - # Notes
 - # Issues
 - # Discussions
@@ -18,7 +18,7 @@ Machine::
   > FROM !"Templates"
   > FLATTEN log as Details
   > WHERE contains(Details, "#Proampac/attendance")
-   AND contains(Details, "Ashley Smith")
+   AND contains(Details, "David Campbell")
   > GROUP BY file.name as Source
   > SORT rows.file.day desc
   > ```

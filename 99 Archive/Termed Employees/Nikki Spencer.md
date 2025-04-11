@@ -1,10 +1,10 @@
-Name:: Jadrien Howard
+Name:: Nikki Spencer
 Phone:: 
 Email:: 
 Department:: HandleBags
 Position:: Packaging Inspector
-Machine:: 403
-#Employee
+Machine:: 407
+#Termed 
 - # Notes
 - # Issues
 - # Discussions
@@ -18,7 +18,7 @@ Machine:: 403
   > FROM !"Templates"
   > FLATTEN log as Details
   > WHERE contains(Details, "#Proampac/attendance")
-   AND contains(Details, "Jadrien Howard")
+   AND contains(Details, "Nikki Spencer")
   > GROUP BY file.name as Source
   > SORT rows.file.day desc
   > ```

@@ -1,12 +1,14 @@
 ---
+Name: Christian Turner
 Phone: 
 Email: 
-Department: Maintenance
-Position: Mechanic
+Department: 
+Position: 
 Machine: 
-Name: Christian Turner
+tags:
+  - Termed
 ---
-#Employee
+
 - # Notes
 - # Issues
 - # Discussions

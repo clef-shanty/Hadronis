@@ -1,10 +1,10 @@
-Name:: Stephanie Triplett
+Name:: Nilson Rojas
 Phone:: 
 Email:: 
-Department:: HandleBags
-Position:: Packaging Inspector
-Machine:: 405
-#Employee
+Department:: Quality
+Position:: Utility
+Machine:: 
+#Termed 
 - # Notes
 - # Issues
 - # Discussions
@@ -18,7 +18,7 @@ Machine:: 405
   > FROM !"Templates"
   > FLATTEN log as Details
   > WHERE contains(Details, "#Proampac/attendance")
-   AND contains(Details, "Stephanie Triplett")
+   AND contains(Details, "Nilson Rojas")
   > GROUP BY file.name as Source
   > SORT rows.file.day desc
   > ```

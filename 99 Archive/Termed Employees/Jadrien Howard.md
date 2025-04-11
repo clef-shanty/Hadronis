@@ -1,10 +1,10 @@
-Name:: Nilson Rojas
+Name:: Jadrien Howard
 Phone:: 
 Email:: 
-Department:: Quality
-Position:: Utility
-Machine:: 
-#Employee
+Department:: 
+Position:: Packaging Inspector
+Machine:: 403
+#Termed 
 - # Notes
 - # Issues
 - # Discussions
@@ -18,7 +18,7 @@ Machine::
   > FROM !"Templates"
   > FLATTEN log as Details
   > WHERE contains(Details, "#Proampac/attendance")
-   AND contains(Details, "Nilson Rojas")
+   AND contains(Details, "Jadrien Howard")
   > GROUP BY file.name as Source
   > SORT rows.file.day desc
   > ```

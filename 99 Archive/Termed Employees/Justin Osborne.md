@@ -2,10 +2,14 @@
 Class: Employee
 Phone: 
 Email: 
-Department: HandleBags
-Position: Packaging Inspector
-Machine: "406"
-Name: Murry Locket
+Department:
+  - Warehouse
+Position: Forklift Driver
+Machine:
+  - NA
+Name: Justin Osborne
+tags:
+  - Termed
 ---
 - # Notes
 - # Issues
@@ -20,7 +24,7 @@ Name: Murry Locket
   FROM !"Templates"
   FLATTEN log as Details
   WHERE contains(Details, "#Proampac/attendance")
-   AND contains(Details, "Murry Lockett")
+   AND contains(Details, "Justin Osborne")
   GROUP BY file.name as Source
   SORT rows.file.day desc
   ```

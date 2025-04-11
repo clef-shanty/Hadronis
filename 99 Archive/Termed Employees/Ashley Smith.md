@@ -1,10 +1,10 @@
-Name:: Nikki Spencer
+Name:: Ashley Smith
 Phone:: 
 Email:: 
-Department:: HandleBags
-Position:: Packaging Inspector
-Machine:: 407
-#Employee
+Department:: 
+Position:: 
+Machine:: 
+#Termed 
 - # Notes
 - # Issues
 - # Discussions
@@ -18,7 +18,7 @@ Machine:: 407
   > FROM !"Templates"
   > FLATTEN log as Details
   > WHERE contains(Details, "#Proampac/attendance")
-   AND contains(Details, "Nikki Spencer")
+   AND contains(Details, "Ashley Smith")
   > GROUP BY file.name as Source
   > SORT rows.file.day desc
   > ```

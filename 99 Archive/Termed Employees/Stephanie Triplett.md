@@ -1,10 +1,10 @@
-Name:: David Campbell
+Name:: Stephanie Triplett
 Phone:: 
 Email:: 
-Department:: 
-Position:: 
-Machine:: 
-#Employee
+Department:: HandleBags
+Position:: Packaging Inspector
+Machine:: 405
+#Termed 
 - # Notes
 - # Issues
 - # Discussions
@@ -18,7 +18,7 @@ Machine::
   > FROM !"Templates"
   > FLATTEN log as Details
   > WHERE contains(Details, "#Proampac/attendance")
-   AND contains(Details, "David Campbell")
+   AND contains(Details, "Stephanie Triplett")
   > GROUP BY file.name as Source
   > SORT rows.file.day desc
   > ```

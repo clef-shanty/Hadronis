@@ -4,7 +4,7 @@ Name: Leland Bell
 Department: Warehouse
 Position: Forklift Driver
 ---
-#Employee
+#Termed 
 - # Notes
 - # Issues
 - # Discussions
