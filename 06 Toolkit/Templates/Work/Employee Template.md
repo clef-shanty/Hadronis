@@ -8,10 +8,13 @@ Machine:
 tags:
   - Employee
 ---
-- # Notes
-- # Issues
-- # Discussions
-- # Attendance
+# Notes
+
+# Issues
+
+# Discussions
+
+# Attendance
   
   ```dataview
   TABLE

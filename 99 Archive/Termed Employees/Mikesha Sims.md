@@ -1,13 +1,11 @@
 ---
-Class: Employee
+Class: 
 Phone: 
 Email: 
-Department:
-  - HandleBags
-Position: Packaging Inspector
-Machine:
-  - "409"
-Name: Mikesha Sims
+Department: 
+Position: 
+Machine: []
+Name: 
 tags:
   - Termed
 ---

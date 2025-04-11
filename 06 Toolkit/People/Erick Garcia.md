@@ -1,16 +1,24 @@
 ---
-Class: Employee
+Name: Erick Garcia
 Phone: 
 Email: 
-Department: HandleBags
-Position: Adjuster
-Machine: All
-Name: Erick Garcia
+Department:
+  - "[[Handlebags]]"
+Position: "[[Adjustor]]"
+Machine:
+  - "[[407]]"
+  - "[[406]]"
+  - "[[405]]"
+  - "[[403]]"
+  - "[[402]]"
+  - "[[401]]"
+tags:
+  - Employee
 ---
-- # Notes
-- # Issues
-- # Discussions
-- # Attendance
+# Notes
+# Issues
+# Discussions
+# Attendance
   
   ```dataview
   TABLE

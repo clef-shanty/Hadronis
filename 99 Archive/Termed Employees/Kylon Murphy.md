@@ -1,7 +1,7 @@
 - Info
-  Company: ProAmpac
-  Position: Packaging Inspector
-  Group: [[Handlebags]] 
+  Company: 
+  Position: 
+  Group: 
   Phone:
   Email:
 #Termed 

@@ -1,9 +1,9 @@
 Name:: Stephanie Triplett
 Phone:: 
 Email:: 
-Department:: HandleBags
-Position:: Packaging Inspector
-Machine:: 405
+Department:: 
+Position:: 
+Machine:: 
 #Termed 
 - # Notes
 - # Issues

@@ -1,9 +1,9 @@
 Name:: Nikki Spencer
 Phone:: 
 Email:: 
-Department:: HandleBags
-Position:: Packaging Inspector
-Machine:: 407
+Department:: 
+Position::  
+Machine:: 
 #Termed 
 - # Notes
 - # Issues

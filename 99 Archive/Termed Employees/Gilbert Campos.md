@@ -1,12 +1,14 @@
 ---
-Class: Employee
+Class: 
 first-name: Gilbert
 last-name: Campos
 Phone: 
 Email: 
-Department: HandleBags
-Position: Operator
-Machine: "406"
+Department: 
+Position: 
+Machine: 
+tags:
+  - Termed
 ---
 - # Notes
 - # Issues
