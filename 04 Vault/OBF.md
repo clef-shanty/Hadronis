@@ -9,6 +9,16 @@ modified: 2025-03-14T19:41:26-05:00
 
 # OBF
 
+![](https://i.ytimg.com/vi/1beQ5yMPeEk/hqdefault.jpg)
+
+Obsidian People Template (2025)
+
+From: Construct By Dee
+
+https://youtube.com/watch?v=1beQ5yMPeEk&si=futFe-h79dBgmiFp
+
+---
+
 
 ![](https://i.ytimg.com/vi/_GkDfOnqNcc/hqdefault.jpg)
 
