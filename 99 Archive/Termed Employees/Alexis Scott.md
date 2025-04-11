@@ -1,10 +1,12 @@
 ---
 Name: Alexis Scott
-Department: SOS
-Machine: [126, 132, 134, 142]
-Position: Operator
+Department: []
+Machine: 
+Position: 
+tags:
+  - Termed
 ---
-#Employee
+
 - # Notes
 - # Issues
 - # Discussions

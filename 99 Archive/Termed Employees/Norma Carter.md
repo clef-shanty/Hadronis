@@ -1,10 +1,13 @@
-Name:: Norma Carter
-Phone:: 
-Email:: 
-Department:: SOS
-Position:: Operator
-Machine:: 132, 126, 134
-#Employee
+---
+Name: Norma Carter
+Phone: 
+Email: 
+Department:
+Position:
+Machine:
+tags:
+  - Termed
+---
 - # Notes
 - # Issues
 - # Discussions

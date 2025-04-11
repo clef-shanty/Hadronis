@@ -1,12 +1,16 @@
 ---
-Class: Employee
-first-name: Justin
-last-name: Thompson
+Name: Justin Thompson
 Phone: 
 Email: 
-Department: Sacks
-Position: Operator
-Machine: 314, 316, 318
+Department:
+  - "[[Sacks]]"
+Position: "[[Operator]]"
+Machine:
+  - "[[314]]"
+  - "[[316]]"
+  - "[[318]]"
+tags:
+  - Employee
 ---
 - # Notes
 - # Issues

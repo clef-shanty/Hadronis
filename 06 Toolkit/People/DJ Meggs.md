@@ -1,12 +1,17 @@
 ---
-Class: Employee
+Name: DJ Meggs
 Phone: 
 Email: 
 Department:
   - "[[Sacks]]"
   - "[[SOS]]"
-Position: Operator
-Machine: 318, 316, 314
+Position: "[[Operator]]"
+Machine:
+  - "[[314]]"
+  - "[[316]]"
+  - "[[318]]"
+tags:
+  - Employee
 ---
 - # Notes
 - # Issues

@@ -1,10 +1,18 @@
-Name:: Charlie Staten
-Phone:: 
-Email:: 
-Department:: SOS
-Position:: Operator
-Machine:: 134, 132, 126
-#Employee
+---
+Name: Charlie Staten
+Phone: 
+Email: 
+Department:
+  - "[[SOS]]"
+Position: "[[Operator]]"
+Machine:
+  - "[[126]]"
+  - "[[132]]"
+  - "[[134]]"
+  - "[[142]]"
+tags:
+  - Employee
+---
 - # Notes
 - # Issues
 - # Discussions

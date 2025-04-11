@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "Today": "checkbox",
-    "Department": "multitext"
+    "Department": "multitext",
+    "Machine": "multitext"
   }
 }

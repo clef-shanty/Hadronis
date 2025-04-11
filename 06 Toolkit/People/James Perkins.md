@@ -1,12 +1,24 @@
 ---
+Name: James Perkins
 Phone: 
 Email: 
-Department: Sacks, SOS
-Position: Adjuster
-Machine: 
-Name: James Perkins
+Department:
+  - "[[Sacks]]"
+  - "[[SOS]]"
+Position: "[[Adjustor]]"
+Machine:
+  - "[[126]]"
+  - "[[132]]"
+  - "[[134]]"
+  - "[[142]]"
+  - "[[155]]"
+  - "[[156]]"
+  - "[[314]]"
+  - "[[316]]"
+  - "[[318]]"
+tags:
+  - Employee
 ---
-#Employee
 - # Notes
 - # Issues
 - # Discussions

@@ -2,10 +2,16 @@
 Class: Employee
 Phone: 
 Email: 
-Department: Sacks, SOS
-Position: Operator
-Machine: "316"
-Name: Ricky Smith
+Department:
+  - "[[Sacks]]"
+  - "[[SOS]]"
+Position: "[[Operator]]"
+Machine:
+  - "[[316]]"
+  - "[[314]]"
+  - "[[318]]"
+tags:
+  - Employee
 ---
 - # Notes
 - # Issues

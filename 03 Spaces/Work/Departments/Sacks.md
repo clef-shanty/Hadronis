@@ -7,6 +7,7 @@ type: Map
 > LIST
 > FROM ""
 > WHERE contains(Department, [[Sacks]])
+> sort asc
 > ```
-> 
-> 
+>
+ 

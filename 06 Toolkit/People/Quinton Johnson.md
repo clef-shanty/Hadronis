@@ -1,12 +1,16 @@
 ---
-Class: Employee
-first-name: Quinton
-last-name: Johnson
+Name: Quinton Johnson
 Phone: 
 Email: 
-Department: Sacks
-Position: Operator
-Machine: 314, 316, 318
+Department:
+  - "[[Sacks]]"
+Position: "[[Operator]]"
+Machine:
+  - "[[314]]"
+  - "[[316]]"
+  - "[[318]]"
+tags:
+  - Employee
 ---
 - # Notes
 - # Issues

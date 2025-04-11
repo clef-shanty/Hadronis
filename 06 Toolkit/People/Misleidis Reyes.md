@@ -1,10 +1,19 @@
-Name:: Misleidis Reyes
-Phone:: 
-Email:: 
-Department:: SOS, Sacks
-Position:: Operator
-Machine:: 142, 132, 126, 134
-#Employee
+---
+Name: Misleidis Reyes
+Phone: 
+Email: 
+Department:
+  - "[[Sacks]]"
+  - "[[SOS]]"
+Position: "[[Operator]]"
+Machine:
+  - "[[126]]"
+  - "[[132]]"
+  - "[[134]]"
+  - "[[142]]"
+tags:
+  - Employee
+---
 - # Notes
 - # Issues
 - # Discussions

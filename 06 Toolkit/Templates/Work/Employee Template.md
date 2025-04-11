@@ -1,12 +1,12 @@
 ---
-Class: Employee
-first-name: 
-last-name: 
+Name: 
 Phone: 
 Email: 
 Department: 
 Position: 
-Machine:
+Machine: 
+tags:
+  - Employee
 ---
 - # Notes
 - # Issues

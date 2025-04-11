@@ -1,8 +1,16 @@
 ---
 Name: Daniel Collier
-Department: SOS
-Machine: [126, 132, 134, 142, 155, 156]
-Position: Operator
+Department:
+  - "[[SOS]]"
+  - "[[Sacks]]"
+Machine:
+  - "[[126]]"
+  - "[[132]]"
+  - "[[134]]"
+  - "[[142]]"
+  - "[[155]]"
+  - "[[156]]"
+Position: "[[Operator]]"
 ---
 #Employee
 - # Notes

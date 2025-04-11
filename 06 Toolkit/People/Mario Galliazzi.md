@@ -1,10 +1,23 @@
 ---
-Class: Employee
+Name: Mario Galliazzi
 Phone: 
 Email: 
-Department: Sacks, SOS
-Position: Operator
-Machine: All
+Department:
+  - "[[Sacks]]"
+  - "[[SOS]]"
+Position: "[[Operator]]"
+Machine:
+  - "[[126]]"
+  - "[[132]]"
+  - "[[134]]"
+  - "[[142]]"
+  - "[[155]]"
+  - "[[156]]"
+  - "[[314]]"
+  - "[[316]]"
+  - "[[318]]"
+tags:
+  - Employee
 ---
 - # Notes
 - # Issues

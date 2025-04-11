@@ -1,13 +1,26 @@
-name:: [[Josh Roby]]
-group:: Sacks
-position:: Adjustor
-machine:: [[314]], [[316]], [[318]] 
-phone::
-email::
+---
+Name: Josh Roby
+Phone: 
+Email: 
+Department:
+  - "[[Sacks]]"
+  - "[[SOS]]"
+Position: "[[Adjustor]]"
+Machine:
+  - "[[126]]"
+  - "[[132]]"
+  - "[[134]]"
+  - "[[142]]"
+  - "[[155]]"
+  - "[[156]]"
+  - "[[314]]"
+  - "[[316]]"
+  - "[[318]]"
+tags:
+  - Employee
+---
+
 
 - ## Attendance
-	- {{query (and [[Josh Roby]] (property :tags "#attendance"))}}
-	  query-sort-by:: page
-	  query-table:: true
-	  query-sort-desc:: false
+
 - ## Discussions
