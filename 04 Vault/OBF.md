@@ -9,6 +9,16 @@ modified: 2025-03-14T19:41:26-05:00
 
 # OBF
 
+![](%http_data.thumbnail_url)
+
+Fiĺl in Blanks in Excel
+From: @ExcelPanda
+
+https://youtube.com/shorts/lExjOILKBiE?si=iAoKTqbe3-DeWj6e
+
+---
+
+
 ![](https://i.ytimg.com/vi/1beQ5yMPeEk/hqdefault.jpg)
 
 Obsidian People Template (2025)
