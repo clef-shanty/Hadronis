@@ -1,9 +1,9 @@
 Name:: Stevo Nonkovic
 Phone:: 
 Email:: 
-Department:: HandleBags
-Position:: Adjuster
-Machine:: 403,402,401, 405
+Department:: 
+Position:: 
+Machine:: 
 #Termed 
 - # Notes
 - # Issues

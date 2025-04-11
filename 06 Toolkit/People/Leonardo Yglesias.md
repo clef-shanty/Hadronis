@@ -1,24 +1,33 @@
-Name:: Leonardo Yglesias
-Phone:: 
-Email:: 
-Department:: HandleBags
-Position:: Operator
-Machine:: 401
-#Employee
+---
+Name: Leonardo Yglesias
+Phone: 
+Email: 
+Department:
+  - "[[Handlebags]]"
+Position: "[[Operator]]"
+Machine:
+  - "[[401]]"
+  - "[[409]]"
+tags:
+  - Employee
+---
 # Notes
-# Issues
-# Discussions
-# Attendance
 
-> ```dataview
-> TABLE
-> WITHOUT ID
-> link(Source, dateformat(date(Source), "yyyy-MM-dd")) as "",
-> rows.Details as "Details"
-> FROM !"Templates"
-> FLATTEN log as Details
-> WHERE contains(Details, "#Proampac/attendance")
-   AND contains(Details, "Leonardo Yglesias")
-> GROUP BY file.name as Source
-> SORT rows.file.day desc
-> ```
+# Issues
+
+# Discussions
+
+# Attendance
+  
+  ```dataview
+  TABLE
+  WITHOUT ID
+  link(Source, dateformat(date(Source), "yyyy-MM-dd")) as "",
+  rows.Details as "Details"
+  FROM !"x-raw/templates"
+  FLATTEN log as Details
+  WHERE contains(Details, "#Proampac/attendance")
+   AND contains(Details, this.file.name)
+  GROUP BY file.name as Source
+  SORT rows.file.day desc
+  ```

@@ -1,13 +1,10 @@
 ---
-Class: Employee
+Name: Lizeth Caiceido
 Phone: 
 Email: 
-Department:
-  - HandleBags
-Position: Packaging Inspector
-Machine:
-  - "408"
-Name: Lizeth Caiceido
+Department: 
+Position: 
+Machine: 
 tags:
   - Termed
 ---

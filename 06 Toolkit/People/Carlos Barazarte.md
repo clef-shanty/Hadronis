@@ -1,16 +1,19 @@
 ---
-Class: Employee
+Name: Carlos Barazarte
 Phone: 
 Email: 
-Department: HandleBags
-Position: Packaging Inspector
-Machine: "408"
-Name: Carlos Barazarte
+Department:
+  - "[[Handlebags]]"
+Position: "[[Operator]]"
+Machine:
+  - "[[408]]"
+tags:
+  - Employee
 ---
-- # Notes
-- # Issues
-- # Discussions
-- # Attendance
+# Notes
+# Issues
+# Discussions
+# Attendance
   
   ```dataview
   TABLE

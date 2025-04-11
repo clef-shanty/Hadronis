@@ -1,19 +1,19 @@
 ---
-area: Contacts
+Name: Mayelin Caro
+Phone: 
+Email: 
+Department:
+  - "[[Handlebags]]"
+Position: "[[Packaging Inspector]]"
+Machine:
+  - "[[401]]"
 tags:
   - Employee
-type: contact
-created: 2024-11-16 19:48
-Department: HandleBags
-Position: Packaging Inspector
-Machine: "401"
 ---
-
----
-- # Notes
-- # Issues
-- # Discussions
-- # Attendance
+# Notes
+# Issues
+# Discussions
+# Attendance
   
   ```dataview
   TABLE

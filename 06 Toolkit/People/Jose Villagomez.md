@@ -1,17 +1,20 @@
 ---
-Class: Employee
-first-name: Jose
-last-name: Villagomez
+Name: Jose Villagomez
 Phone: 
 Email: 
-Department: HandleBags
-Position: Operator
-Machine: 406, 405
+Department:
+  - "[[Handlebags]]"
+Position: "[[Operator]]"
+Machine:
+  - "[[405]]"
+  - "[[406]]"
+tags:
+  - Employee
 ---
-- # Notes
-- # Issues
-- # Discussions
-- # Attendance
+# Notes
+# Issues
+# Discussions
+# Attendance
   
   ```dataview
   TABLE

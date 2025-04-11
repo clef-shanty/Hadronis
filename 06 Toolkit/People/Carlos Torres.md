@@ -1,17 +1,17 @@
 ---
-Class: Employee
-first-name: Carlos
-last-name: Torres
+Name: Carlos Torres
 Phone: 
 Email: 
-Department: HandleBags
-Position: Packaging Inspector
-Machine: "407"
+Department:
+  - "[[Handlebags]]"
+Position: "[[Packaging Inspector]]"
+Machine:
+  - "[[407]]"
 ---
-- # Notes
-- # Issues
-- # Discussions
-- # Attendance
+# Notes
+# Issues
+# Discussions
+# Attendance
   
   ```dataview
   TABLE
