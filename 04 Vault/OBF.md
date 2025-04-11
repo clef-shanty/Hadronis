@@ -11,6 +11,19 @@ modified: 2025-03-14T19:41:26-05:00
 
 **<span style="background-color:#D2FD7E;"><span style='color: #7EABFD'>2025-04-10</span></span>**
 
+![](https://i.ytimg.com/vi/tsD3TNVajQ0/hqdefault.jpg)
+
+Trump Accused of Market Manipulation After Tariff Surrender, Fox News Admits He Caved: A Closer Look
+
+From: Late Night with Seth Meyers
+
+
+https://youtube.com/watch?v=tsD3TNVajQ0&si=99F4r11ViPFTIL7L
+
+---
+
+
+
 ![](https://i.ytimg.com/vi/rAkerV8rlow/hqdefault.jpg)
 
 Form, Function, & Fun! - My Obsidian Vault Tour [2024]
