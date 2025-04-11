@@ -20,6 +20,15 @@ From: CyanVoxel
 https://youtube.com/watch?v=rAkerV8rlow&si=EYzVxUhZifQ3r_2g
 
 ---
+![](https://i.ytimg.com/vi/FPWMTxpROVE/hqdefault.jpg)
+
+98% of this Audio Bypasses your Ears & Goes Directly to your Brain (EMDR Therapeutic Technology)
+
+From: Meditational State • Healing Music
+
+https://youtube.com/watch?v=FPWMTxpROVE&si=55JwMDdWDzF6eAtw
+
+---
 
 ![](https://i.ytimg.com/vi/f3mpl9Ka0v8/hqdefault.jpg)
 
