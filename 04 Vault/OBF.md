@@ -11,6 +11,17 @@ modified: 2025-03-14T19:41:26-05:00
 
 **<span style="background-color:#D2FD7E;"><span style='color: #7EABFD'>2025-04-10</span></span>**
 
+![](https://i.ytimg.com/vi/f3mpl9Ka0v8/hqdefault.jpg)
+
+Customize Obsidian Appearance
+
+From: Knowledge Work Nexus
+
+https://youtube.com/watch?v=f3mpl9Ka0v8&si=snPOyjypdediaTQN
+
+---
+
+
 ![](https://i.ytimg.com/vi/ZffEvgEE-hc/hqdefault.jpg)
 
 Level 1 to 100 Physics Concepts to Fall Asleep to
