@@ -35,8 +35,7 @@
               "title": "OBF"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,6 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "+ Launchpad.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -177,8 +177,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "69dba9b675fa6f9c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "04 Vault/OBF.md",
     "00 NoteLab/Videos/Rhythm guitar with Cory Wong- How to stack and blend your guitar parts.md",
     "+ Launchpad.md",
     "06 Toolkit/People/Luis Santiago.md",
@@ -204,7 +205,6 @@
     "99 Archive/Termed Employees/Gilbert Campos.md",
     "99 Archive/Termed Employees/Nikki Spencer.md",
     "99 Archive/Termed Employees/Kylon Murphy.md",
-    "99 Archive/Termed Employees/Stephanie Triplett.md",
     "99 Archive/Termed Employees",
     "99 Archive",
     "03 Spaces/Work/Departments",
