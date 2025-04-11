@@ -1,11 +1,10 @@
 ---
-up:
-  - "[[00 Video List]]"
+up: []
 input: iOS
 type: YouTube Video
 producer: https://www.youtube.com/@EllensTipsForiOS
 link: https://youtube.com/watch?v=rYMITIExUWA&si=LSoB1AG0Ddavo-it
-tags: 
+tags:
   - resource/tips/ios
   - to_watch
 status: new

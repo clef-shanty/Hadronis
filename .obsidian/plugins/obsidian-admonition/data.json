@@ -12,6 +12,18 @@
       "injectColor": true,
       "noTitle": false,
       "copy": false
+    },
+    "walk": {
+      "type": "walk",
+      "color": "77, 172, 166",
+      "icon": {
+        "name": "lucide-footprints",
+        "type": "obsidian"
+      },
+      "command": false,
+      "title": "Walkthroughs",
+      "injectColor": true,
+      "noTitle": false
     }
   },
   "syntaxHighlight": false,
