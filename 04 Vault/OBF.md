@@ -73,6 +73,16 @@ From: Ryoen Deprouw (Broesie)
 https://youtube.com/watch?v=nLuoOhXuCvA&si=geFcO603ZY29MHFC
 
 ---
+![](https://i.ytimg.com/vi/_n3punkST2s/hqdefault.jpg)
+
+Nuclear Fusion: Updates & Impacts
+
+From: Isaac Arthur
+
+https://youtube.com/watch?v=_n3punkST2s&si=0vbWK2gJDrx-TMUw
+
+---
+
 
 
 
